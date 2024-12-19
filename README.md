@@ -1,0 +1,1 @@
+THESIS.AI merupakan aplikasi chatbot panduan menulis skripsi berbasis web yang dirancang untuk membantu mahasiswa dalam menulis skripsi. aplikasi ini menggunakan teknologi Node.js, Express.js, dan Socket.io untuk memberikan panduan secara real-time terkait penulisan skripsi.
